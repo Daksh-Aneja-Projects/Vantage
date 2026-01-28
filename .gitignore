@@ -1,0 +1,29 @@
+# Deep Logic / Core IP
+ai_reasoning/
+context_engine/
+sensor_fusion/
+voice_processing/
+privacy_security/
+integration/
+
+# Configuration & Secrets
+.env
+config.py
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Documentation / IP
+*.pdf
+# Keep README and other MD files
+
+# Environment
+venv/
+env/
+.idea/
+.vscode/
+
+# Build
+build/
+dist/
+*.egg-info/
